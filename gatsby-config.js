@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby First test',
+    title: 'TNT-Forms',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
